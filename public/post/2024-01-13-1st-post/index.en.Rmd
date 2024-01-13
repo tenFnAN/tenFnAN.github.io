@@ -1,0 +1,21 @@
+---
+title: 1st post
+author: ''
+date: '2024-01-13'
+slug: []
+categories: []
+tags:
+- demo
+---
+ 
+start post
+```{r}
+ 
+plot(iris)
+
+
+```
+
+end post
+
+
