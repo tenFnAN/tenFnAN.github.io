@@ -12,9 +12,9 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## <!--more-->
 
-## YouTube Privacy Enhanced Shortcode
+## YouTube  
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube Pe0PF4_3lDo >}}
 
 <br>
 
@@ -22,12 +22,10 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Simple Shortcode
 
-{{< twitter_simple 1085870671291310081 >}}
+{{< twitter_simple 1510249694605287431 >}}
 
+{{< twitter_simple 1524379816207736833 >}}
 <br>
 
 ---
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+  
