@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: "//tenFnAN.github.io/"  
 languageCode: en
 DefaultContentLanguage: en
 title: Website of Jane Doe
