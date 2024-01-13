@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Anonymous blog"
+author = "Paul"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "data miner | tennis maniac"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -56,25 +56,25 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
+#[[socialIcons]]
+#icon = "fab fa-linkedin"
+#title = "Linkedin"
+#url = "https://de.linkedin.com/"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/tenFnAN/"
 
-[[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#[[socialIcons]]
+#icon = "fab fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:pawel.sroka0@gmail.com"
 
 [mermaid]
 # enable = true

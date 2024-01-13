@@ -1,23 +1,23 @@
   [[main]]
-  name = "الرئيسية"
+  name = "strona główna"
   identifier = "main"
   weight = 100
-  url = "/ar/"
+  url = "/pl/"
 
   [[main]]
-  name = "المنشورات"
+  name = "posty"
   weight = 200
   identifier = "posts"
-  url = "/ar/post/"
+  url = "/pl/post/"
 
   [[main]]
-  name = "حول"
+  name = "o mnie"
   weight = 300
   identifier = "about"
-  url = "/ar/about/"
+  url = "/pl/about/"
 
   [[main]]
-  name = "للتواصل"
+  name = "kontakt"
   weight = 400
   identifier = "contact"
-  url = "/ar/contact/"
+  url = "/pl/contact/"

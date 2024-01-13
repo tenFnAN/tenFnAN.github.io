@@ -25,18 +25,11 @@
   [[main]]
   name = "Accomplishments"
   weight = 500
-  identifier = "accomplishments"
-
-  [[main]]
-  name = "Awards"
-  weight = 510
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
+  identifier = "accomplishments"  
 
   [[main]]
   name = "Certifications"
-  weight = 520
+  weight = 510
   identifier = "certifications"
   url = "/certifications/"
   parent = "accomplishments"
