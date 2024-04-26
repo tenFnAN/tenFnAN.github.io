@@ -1,6 +1,5 @@
 ---
-title: Tennis Strings Comparison Tennis Warehouse
-output: github_document
+title: Tennis Strings Comparison  
 author: ''
 date: '2024-01-13'
 slug: []
@@ -39,7 +38,7 @@ tags:
 
 <link href="{{< blogdown/postref >}}index.en_files/bootstrap-grid/bootstrap-grid.min.css" rel="stylesheet" />
 
-Choose the string you want to compare.
+Choose the string you want to compare. The data comes from the Tennis Warehouse website.
 
 <div class="container-fluid crosstalk-bscols">
 <div class="row">
@@ -62,3 +61,5 @@ Choose the string you want to compare.
 </div>
 </div>
 </div>
+
+The post was created at 2024-04-26 12:37:00.
