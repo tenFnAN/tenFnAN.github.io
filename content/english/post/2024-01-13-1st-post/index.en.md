@@ -1,5 +1,6 @@
 ---
 title: Tennis Strings Comparison Tennis Warehouse
+output: github_document
 author: ''
 date: '2024-01-13'
 slug: []
@@ -61,5 +62,3 @@ Choose the string you want to compare.
 </div>
 </div>
 </div>
-
-end post
